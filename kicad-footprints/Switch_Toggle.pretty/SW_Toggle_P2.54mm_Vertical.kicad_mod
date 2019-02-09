@@ -28,7 +28,7 @@
   (pad 3 thru_hole circle (at 0 5.08) (size 1.524 1.524) (drill 0.762) (layers *.Cu *.Mask))
   (model ${KISYS3DMOD}/Switch_Toggle.3dshapes/SW_Toggle_P2.54mm_Vertical.wrl
     (at (xyz 0 0 0))
-    (scale (xyz 1 1 1))
+    (scale (xyz 0.4 0.4 0.4))
     (rotate (xyz 0 0 0))
   )
 )
